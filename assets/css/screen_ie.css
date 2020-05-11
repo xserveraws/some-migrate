@@ -1,0 +1,12 @@
+html, body {
+	margin:0px;
+	overflow:hidden;
+	height:100%;
+}
+
+#main_container {
+	width:100%;
+	background-color:#ffffff;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
